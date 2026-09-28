@@ -1,6 +1,6 @@
-# Prénom Nom
+# Amandine Bailleul
 
-BTS SIO, option SISR (ou SLAM) — promotion 2026-2028
+BTS SIO, option SISR — promotion 2026-2028
 
 ## Parcours
 
@@ -27,4 +27,4 @@ Votre formation, votre alternance ou vos stages, votre option et pourquoi vous l
 
 ## Contact
 
-prenom.nom@exemple.fr
+amandine.bailleul04@gmail.com
